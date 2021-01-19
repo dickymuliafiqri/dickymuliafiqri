@@ -10,10 +10,10 @@
   <i>こんにちは、私は初心者です</i><br>
 <p><br><br>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dickymuliafiqri&show_icons=true&theme=omni" />
-</a><br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickymuliafiqri&theme=omni&layout=compact" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dickymuliafiqri&show_icons=true&theme=omni" /><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickymuliafiqri&theme=omni&layout=compact" />
 </p>
+
+<b>Credits</b>
+  - <a href="https://github.com/anuraghazra">anuraghazra</a> for github-readme-stats<br>
+  - <a href="https://img.shields.io/">img.shield.io</a> for badges
