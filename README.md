@@ -1,16 +1,12 @@
 ### Hi there 👋
+<img align="center" width=250 weigth=250 style="border-radius:50%;" src="https://avatars1.githubusercontent.com/u/55744810?s=460&u=0c5a11e08d64a6bc0d524aa0e9293052d144330d&v=4" />
+<a href="https://t.me/d_fordlalatina">
+  <img src="https://img.shields.io/badge/Telegram-d__fordlalatina-orange?logo=Telegram" />
+</a>
 
-<!--
-**dickymuliafiqri/dickymuliafiqri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dickymuliafiqri&show_icons=true&theme=omni" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickymuliafiqri&theme=omni&layout=compact" />
+</a>
